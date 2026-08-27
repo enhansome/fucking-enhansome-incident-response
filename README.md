@@ -263,7 +263,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Sandboxing/Reversing Tools
 
 * <b><code> 72804⭐</code></b> <b><code>  7964🍴</code></b> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,930 | 🐛 1,921 | 🌐 Java | 📅 2026-08-25) - Software Reverse Engineering Framework.
-* <b><code> 24649⭐</code></b> <b><code>  3300🍴</code></b> [Radare2](https://github.com/radareorg/radare2) ⭐ 24,658 | 🐛 819 | 🌐 C | 📅 2026-08-27) - Reverse engineering framework and command-line toolset.
+* <b><code> 24649⭐</code></b> <b><code>  3300🍴</code></b> [Radare2](https://github.com/radareorg/radare2) ⭐ 24,658 | 🐛 820 | 🌐 C | 📅 2026-08-27) - Reverse engineering framework and command-line toolset.
 * <b><code> 19572⭐</code></b> <b><code>  1439🍴</code></b> [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,595 | 🐛 493 | 🌐 C++ | 📅 2026-08-22) - Free and Open Source Reverse Engineering Platform powered by rizin.
 * <b><code>  6155⭐</code></b> <b><code>   718🍴</code></b> [CAPA](https://github.com/mandiant/capa) ⭐ 6,157 | 🐛 295 | 🌐 Python | 📅 2026-08-26) - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.
 * <b><code>  5964⭐</code></b> <b><code>  1723🍴</code></b> [Cuckoo](https://github.com/cuckoosandbox/cuckoo) ⚠️ Archived) - Open Source Highly configurable sandboxing tool.

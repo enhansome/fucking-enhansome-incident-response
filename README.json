@@ -291,7 +291,7 @@
                 "archived": false,
                 "id": 44610249,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:19:40Z",
+                "last_commit": "2026-08-27T12:15:56Z",
                 "owner": "zentralopensource",
                 "repo": "zentral",
                 "stars": 879
@@ -1784,7 +1784,7 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-27T08:56:54Z",
+                "last_commit": "2026-08-27T12:23:09Z",
                 "owner": "radareorg",
                 "repo": "radare2",
                 "stars": 24658
@@ -2286,7 +2286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:36.310Z",
+    "last_updated": "2026-08-27T12:23:13.165Z",
     "original_repository_info": {
       "archived": false,
       "id": 521210646,

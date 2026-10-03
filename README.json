@@ -45,7 +45,7 @@
                 "open_issues": 76,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7303,
+                "stars": 7304,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -1485,7 +1485,7 @@
                 "open_issues": 232,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 11147,
+                "stars": 11148,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -1919,7 +1919,7 @@
                 "open_issues": 137,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4451,
+                "stars": 4452,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -3054,7 +3054,7 @@
                 "open_issues": 1973,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 80368,
+                "stars": 80375,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -3075,7 +3075,7 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:13:48Z",
+                "last_commit": "2026-10-03T07:08:37Z",
                 "open_issues": 798,
                 "owner": "radareorg",
                 "repo": "radare2",
@@ -3186,7 +3186,7 @@
                 "open_issues": 597,
                 "owner": "rizinorg",
                 "repo": "rizin",
-                "stars": 3927,
+                "stars": 3928,
                 "topics": [
                   "debugging",
                   "exploitation",
@@ -3209,7 +3209,7 @@
                 "id": 215366713,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:11:12Z",
+                "last_commit": "2026-10-03T06:11:02Z",
                 "open_issues": 78,
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
@@ -3508,8 +3508,8 @@
                 "id": 23812315,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:31:10Z",
-                "open_issues": 300,
+                "last_commit": "2026-10-03T06:57:44Z",
+                "open_issues": 292,
                 "owner": "log2timeline",
                 "repo": "plaso",
                 "stars": 2167,
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:44.669Z",
+    "last_updated": "2026-10-03T07:39:51.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools for incident response. With repository stars⭐ and forks🍴",

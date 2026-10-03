@@ -35,7 +35,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Adversary Emulation
 
 * <b><code> 12604⭐</code></b> <b><code>  3228🍴</code></b> [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,604 | 🐛 39 | 🌐 C | 📅 2026-09-28) - Small and highly portable detection tests mapped to the MITRE ATT\&CK Framework.
-* <b><code>  7302⭐</code></b> <b><code>  1380🍴</code></b> [Caldera](https://github.com/mitre/caldera) ⭐ 7,303 | 🐛 76 | 🌐 Python | 📅 2026-08-27) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT\&CK™) project.
+* <b><code>  7302⭐</code></b> <b><code>  1380🍴</code></b> [Caldera](https://github.com/mitre/caldera) ⭐ 7,304 | 🐛 76 | 🌐 Python | 📅 2026-08-27) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT\&CK™) project.
 * <b><code>  2775⭐</code></b> <b><code>   453🍴</code></b> [APTSimulator](https://github.com/NextronSystems/APTSimulator) ⭐ 2,775 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
 * <b><code>  1365⭐</code></b> <b><code>   145🍴</code></b> [Network Flight Simulator](https://github.com/alphasoc/flightsim) ⭐ 1,365 | 🐛 24 | 🌐 Go | 📅 2024-04-04) - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
 * <b><code>  1319⭐</code></b> <b><code>   202🍴</code></b> [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) ⭐ 1,319 | 🐛 7 | 📅 2025-01-22) - Virtual machine for adversary emulation and threat hunting.
@@ -156,7 +156,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Log Analysis Tools
 
-* <b><code> 11144⭐</code></b> <b><code>  2825🍴</code></b> [Sigma](https://github.com/SigmaHQ/sigma) ⭐ 11,147 | 🐛 232 | 🌐 Python | 📅 2026-10-02) - Generic signature format for SIEM systems already containing an extensive ruleset.
+* <b><code> 11144⭐</code></b> <b><code>  2825🍴</code></b> [Sigma](https://github.com/SigmaHQ/sigma) ⭐ 11,148 | 🐛 232 | 🌐 Python | 📅 2026-10-02) - Generic signature format for SIEM systems already containing an extensive ruleset.
 * <b><code>  3680⭐</code></b> <b><code>   309🍴</code></b> [Chainsaw](https://github.com/countercept/chainsaw) ⭐ 3,680 | 🐛 5 | 🌐 Rust | 📅 2026-09-23) - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.
 * <b><code>  3376⭐</code></b> <b><code>   299🍴</code></b> [Hayabusa](https://github.com/Yamato-Security/hayabusa) ⭐ 3,376 | 🐛 20 | 🌐 Rust | 📅 2026-10-02) - Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.
 * <b><code>  3283⭐</code></b> <b><code>   489🍴</code></b> [LogonTracer](https://github.com/JPCERTCC/LogonTracer) ⭐ 3,283 | 🐛 22 | 🌐 Python | 📅 2026-08-02) - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.
@@ -177,7 +177,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Memory Analysis Tools
 
 * <b><code>  8059⭐</code></b> <b><code>  1347🍴</code></b> [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived) - Advanced memory forensics framework.
-* <b><code>  4445⭐</code></b> <b><code>   712🍴</code></b> [Volatility 3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,451 | 🐛 137 | 🌐 Python | 📅 2026-09-17) - The volatile memory extraction framework (successor of Volatility)
+* <b><code>  4445⭐</code></b> <b><code>   712🍴</code></b> [Volatility 3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,452 | 🐛 137 | 🌐 Python | 📅 2026-09-17) - The volatile memory extraction framework (successor of Volatility)
 * \[MemProcFS] (<https://github.com/ufrisk/MemProcFS> ⭐ 4,356 | 🐛 8 | 🌐 C | 📅 2026-09-14) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
 * <b><code>  2040⭐</code></b> <b><code>   373🍴</code></b> [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,041 | 🐛 35 | 🌐 C | 📅 2026-04-05) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
 * <b><code>  1122⭐</code></b> <b><code>    95🍴</code></b> [AVML](https://github.com/microsoft/avml) ⭐ 1,123 | 🐛 6 | 🌐 Rust | 📅 2026-09-28) - A portable volatile memory acquisition tool for Linux.
@@ -262,13 +262,13 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Sandboxing/Reversing Tools
 
-* <b><code> 80308⭐</code></b> <b><code>  8935🍴</code></b> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,368 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30) - Software Reverse Engineering Framework.
-* <b><code> 24911⭐</code></b> <b><code>  3333🍴</code></b> [Radare2](https://github.com/radareorg/radare2) ⭐ 24,912 | 🐛 798 | 🌐 C | 📅 2026-10-02) - Reverse engineering framework and command-line toolset.
+* <b><code> 80308⭐</code></b> <b><code>  8935🍴</code></b> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,375 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30) - Software Reverse Engineering Framework.
+* <b><code> 24911⭐</code></b> <b><code>  3333🍴</code></b> [Radare2](https://github.com/radareorg/radare2) ⭐ 24,912 | 🐛 798 | 🌐 C | 📅 2026-10-03) - Reverse engineering framework and command-line toolset.
 * <b><code> 19859⭐</code></b> <b><code>  1478🍴</code></b> [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,858 | 🐛 497 | 🌐 C++ | 📅 2026-09-11) - Free and Open Source Reverse Engineering Platform powered by rizin.
 * <b><code>  6209⭐</code></b> <b><code>   727🍴</code></b> [CAPA](https://github.com/mandiant/capa) ⭐ 6,209 | 🐛 309 | 🌐 Python | 📅 2026-09-14) - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.
 * <b><code>  5958⭐</code></b> <b><code>  1721🍴</code></b> [Cuckoo](https://github.com/cuckoosandbox/cuckoo) ⚠️ Archived) - Open Source Highly configurable sandboxing tool.
-* <b><code>  3926⭐</code></b> <b><code>   627🍴</code></b> [Rizin](https://github.com/rizinorg/rizin) ⭐ 3,927 | 🐛 597 | 🌐 C | 📅 2026-10-03) - UNIX-like reverse engineering framework and command-line toolset
-* <b><code>  3545⭐</code></b> <b><code>   606🍴</code></b> [CAPEv2](https://github.com/kevoreilly/CAPEv2) ⭐ 3,545 | 🐛 78 | 🌐 Python | 📅 2026-10-02) - Malware Configuration And Payload Extraction.
+* <b><code>  3926⭐</code></b> <b><code>   627🍴</code></b> [Rizin](https://github.com/rizinorg/rizin) ⭐ 3,928 | 🐛 597 | 🌐 C | 📅 2026-10-03) - UNIX-like reverse engineering framework and command-line toolset
+* <b><code>  3545⭐</code></b> <b><code>   606🍴</code></b> [CAPEv2](https://github.com/kevoreilly/CAPEv2) ⭐ 3,545 | 🐛 78 | 🌐 Python | 📅 2026-10-03) - Malware Configuration And Payload Extraction.
 * <b><code>  1561⭐</code></b> <b><code>   341🍴</code></b> [Viper](https://github.com/viper-framework/viper) ⚠️ Archived) - Python based binary analysis and management framework, that works well with Cuckoo and YARA.
 * <b><code>   764⭐</code></b> <b><code>   125🍴</code></b> [StringSifter](https://github.com/fireeye/stringsifter) ⭐ 764 | 🐛 12 | 🌐 Python | 📅 2026-07-24) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 * <b><code>   406⭐</code></b> <b><code>   175🍴</code></b> [Cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) ⭐ 406 | 🐛 173 | 🌐 Python | 📅 2017-11-21) - Heavily modified Cuckoo fork developed by community.
@@ -295,7 +295,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Timeline Tools
 
 * <b><code>  3428⭐</code></b> <b><code>   669🍴</code></b> [Timesketch](https://github.com/google/timesketch) ⭐ 3,428 | 🐛 231 | 🌐 Python | 📅 2026-09-24) - Open source tool for collaborative forensic timeline analysis.
-* <b><code>  2167⭐</code></b> <b><code>   429🍴</code></b> [Plaso](https://github.com/log2timeline/plaso) ⭐ 2,167 | 🐛 300 | 🌐 Python | 📅 2026-10-02) -  a Python-based backend engine for the tool log2timeline.
+* <b><code>  2167⭐</code></b> <b><code>   429🍴</code></b> [Plaso](https://github.com/log2timeline/plaso) ⭐ 2,167 | 🐛 292 | 🌐 Python | 📅 2026-10-03) -  a Python-based backend engine for the tool log2timeline.
 * <b><code>  1085⭐</code></b> <b><code>   131🍴</code></b> [Aurora Incident Response](https://github.com/cyb3rfox/Aurora-Incident-Response) ⭐ 1,085 | 🐛 41 | 🌐 JavaScript | 📅 2023-10-05) - Platform developed to build easily a detailed timeline of an incident.
 * <b><code>  1019⭐</code></b> <b><code>   126🍴</code></b> [Morgue](https://github.com/etsy/morgue) ⚠️ Archived) - PHP Web app by Etsy for managing postmortems.
 * 🌎 [Highlighter](www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise.

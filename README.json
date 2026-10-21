@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "12693⭐ 3235🍴 Atomic Red Team (ART)",
+              "title": "12706⭐ 3237🍴 Atomic Red Team (ART)",
               "description": ") - Small and highly portable detection tests mapped to the MITRE ATT&CK Framework.",
               "children": [],
               "repo_info": {
@@ -17,11 +17,11 @@
                 "id": 106586124,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-19T11:16:12Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-21T00:15:54Z",
+                "open_issues": 31,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12705,
+                "stars": 12713,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -31,7 +31,7 @@
             },
             {
               "node_type": "item",
-              "title": "7446⭐ 1404🍴 Caldera",
+              "title": "7454⭐ 1404🍴 Caldera",
               "description": ") - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT&CK™) project.",
               "children": [],
               "repo_info": {
@@ -42,10 +42,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-12T19:16:34Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7453,
+                "stars": 7456,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -60,7 +60,7 @@
             },
             {
               "node_type": "item",
-              "title": "2780⭐ 453🍴 APTSimulator",
+              "title": "2780⭐ 454🍴 APTSimulator",
               "description": ") - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.",
               "children": [],
               "repo_info": {
@@ -74,7 +74,7 @@
                 "open_issues": 4,
                 "owner": "NextronSystems",
                 "repo": "APTSimulator",
-                "stars": 2780,
+                "stars": 2781,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
@@ -256,7 +256,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "9156⭐ 1126🍴 Flare",
+              "title": "9163⭐ 1125🍴 Flare",
               "description": ") - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.",
               "children": [],
               "repo_info": {
@@ -270,7 +270,7 @@
                 "open_issues": 27,
                 "owner": "mandiant",
                 "repo": "flare-vm",
-                "stars": 9161,
+                "stars": 9170,
                 "topics": [
                   "flare",
                   "malware-analysis",
@@ -281,7 +281,7 @@
             },
             {
               "node_type": "item",
-              "title": "7003⭐ 1072🍴 Fleetdm",
+              "title": "7015⭐ 1071🍴 Fleetdm",
               "description": ") - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.",
               "children": [],
               "repo_info": {
@@ -291,11 +291,11 @@
                 "id": 309820286,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T07:04:54Z",
-                "open_issues": 3898,
+                "last_commit": "2026-10-21T07:01:35Z",
+                "open_issues": 3957,
                 "owner": "fleetdm",
                 "repo": "fleet",
-                "stars": 7015,
+                "stars": 7016,
                 "topics": [
                   "binary-authorization",
                   "configuration-management",
@@ -321,7 +321,7 @@
             },
             {
               "node_type": "item",
-              "title": "5091⭐ 794🍴 GRR Rapid Response",
+              "title": "5095⭐ 794🍴 GRR Rapid Response",
               "description": ") - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, 57⭐ 8🍴 PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.",
               "children": [],
               "repo_info": {
@@ -335,14 +335,14 @@
                 "open_issues": 190,
                 "owner": "google",
                 "repo": "grr",
-                "stars": 5094,
+                "stars": 5096,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
             },
             {
               "node_type": "item",
-              "title": "4351⭐ 671🍴 Velociraptor",
+              "title": "4357⭐ 672🍴 Velociraptor",
               "description": ") - Endpoint visibility and collection tool",
               "children": [],
               "repo_info": {
@@ -352,11 +352,11 @@
                 "id": 126576769,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T13:17:26Z",
-                "open_issues": 86,
+                "last_commit": "2026-10-21T01:02:08Z",
+                "open_issues": 90,
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4357,
+                "stars": 4359,
                 "topics": [
                   "digital-forensics",
                   "endpoint-discovery",
@@ -415,7 +415,7 @@
                 "open_issues": 55,
                 "owner": "matanolabs",
                 "repo": "matano",
-                "stars": 1699,
+                "stars": 1700,
                 "topics": [
                   "alerting",
                   "apache-iceberg",
@@ -443,7 +443,7 @@
             },
             {
               "node_type": "item",
-              "title": "1595⭐ 334🍴 IRIS",
+              "title": "1597⭐ 334🍴 IRIS",
               "description": ") - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.",
               "children": [],
               "repo_info": {
@@ -457,7 +457,7 @@
                 "open_issues": 438,
                 "owner": "dfir-iris",
                 "repo": "iris-web",
-                "stars": 1597,
+                "stars": 1600,
                 "topics": [
                   "csirt-tooling",
                   "digital-forensics",
@@ -473,7 +473,7 @@
             },
             {
               "node_type": "item",
-              "title": "1171⭐ 88🍴 Dissect",
+              "title": "1173⭐ 88🍴 Dissect",
               "description": ") - Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).",
               "children": [],
               "repo_info": {
@@ -487,7 +487,7 @@
                 "open_issues": 11,
                 "owner": "fox-it",
                 "repo": "dissect",
-                "stars": 1173,
+                "stars": 1175,
                 "topics": [
                   "dfir",
                   "dissect",
@@ -512,7 +512,7 @@
                 "open_issues": 12,
                 "owner": "DFIRKuiper",
                 "repo": "Kuiper",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "artifacts",
                   "dfir",
@@ -526,7 +526,7 @@
             },
             {
               "node_type": "item",
-              "title": "886⭐ 91🍴 Zentral",
+              "title": "888⭐ 91🍴 Zentral",
               "description": ") - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.",
               "children": [],
               "repo_info": {
@@ -536,11 +536,11 @@
                 "id": 44610249,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T05:38:13Z",
-                "open_issues": 43,
+                "last_commit": "2026-10-20T22:29:27Z",
+                "open_issues": 39,
                 "owner": "zentralopensource",
                 "repo": "zentral",
-                "stars": 887,
+                "stars": 888,
                 "topics": [
                   "apple-mdm",
                   "config-as-code",
@@ -629,7 +629,7 @@
             },
             {
               "node_type": "item",
-              "title": "422⭐ 54🍴 SOC Multi-tool",
+              "title": "422⭐ 53🍴 SOC Multi-tool",
               "description": ") - A powerful and user-friendly browser extension that streamlines investigations for security professionals.",
               "children": [],
               "repo_info": {
@@ -667,11 +667,11 @@
                 "id": 1279470595,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T06:56:44Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-20T20:48:56Z",
+                "open_issues": 27,
                 "owner": "cynative",
                 "repo": "cynative",
-                "stars": 223,
+                "stars": 224,
                 "topics": [
                   "agentic-security",
                   "aws-security",
@@ -702,7 +702,7 @@
                 "open_issues": 0,
                 "owner": "ridgelinecyberdefence",
                 "repo": "vanguard",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "blue-team",
                   "cybersecurity",
@@ -790,7 +790,7 @@
                 "open_issues": 0,
                 "owner": "vitaly-kamluk",
                 "repo": "bitscout",
-                "stars": 483,
+                "stars": 484,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
@@ -804,7 +804,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1488⭐ 209🍴 UAC",
+              "title": "1493⭐ 210🍴 UAC",
               "description": ") - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.",
               "children": [],
               "repo_info": {
@@ -818,7 +818,7 @@
                 "open_issues": 8,
                 "owner": "tclahr",
                 "repo": "uac",
-                "stars": 1493,
+                "stars": 1494,
                 "topics": [
                   "aix",
                   "collector",
@@ -846,7 +846,7 @@
             },
             {
               "node_type": "item",
-              "title": "1432⭐ 222🍴 bulk_extractor",
+              "title": "1431⭐ 223🍴 bulk_extractor",
               "description": ") - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.",
               "children": [],
               "repo_info": {
@@ -867,7 +867,7 @@
             },
             {
               "node_type": "item",
-              "title": "1282⭐ 227🍴 Forensic Artifacts",
+              "title": "1283⭐ 227🍴 Forensic Artifacts",
               "description": ") - Digital Forensics Artifact Repository",
               "children": [],
               "repo_info": {
@@ -881,7 +881,7 @@
                 "open_issues": 44,
                 "owner": "ForensicArtifacts",
                 "repo": "artifacts",
-                "stars": 1282,
+                "stars": 1283,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
@@ -988,7 +988,7 @@
             },
             {
               "node_type": "item",
-              "title": "253⭐ 48🍴 Margarita Shotgun",
+              "title": "253⭐ 47🍴 Margarita Shotgun",
               "description": ") - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.",
               "children": [],
               "repo_info": {
@@ -1010,7 +1010,7 @@
             {
               "node_type": "item",
               "title": "121⭐ 42🍴 Acquire",
-              "description": ") - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. This makes Acquire an excellent tool to, among others, speedup the process of digital forensic triage. It uses 1171⭐ 88🍴 Dissect) to gather that information from the raw disk, if possible.",
+              "description": ") - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. This makes Acquire an excellent tool to, among others, speedup the process of digital forensic triage. It uses 1173⭐ 88🍴 Dissect) to gather that information from the raw disk, if possible.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1063,7 +1063,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2458⭐ 435🍴 Shuffle",
+              "title": "2459⭐ 436🍴 Shuffle",
               "description": ") - A general purpose security automation platform focused on accessibility.",
               "children": [],
               "repo_info": {
@@ -1073,7 +1073,7 @@
                 "id": 262044260,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-19T22:21:29Z",
+                "last_commit": "2026-10-20T11:57:11Z",
                 "open_issues": 496,
                 "owner": "Shuffle",
                 "repo": "Shuffle",
@@ -1114,7 +1114,7 @@
                 "open_issues": 13,
                 "owner": "certsocietegenerale",
                 "repo": "FIR",
-                "stars": 2046,
+                "stars": 2047,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
@@ -1205,8 +1205,8 @@
                 "id": 64484320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T00:20:42Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-20T09:43:59Z",
+                "open_issues": 6,
                 "owner": "log2timeline",
                 "repo": "dftimewolf",
                 "stars": 360,
@@ -1255,7 +1255,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2637⭐ 440🍴 Windows Events Attack Samples",
+              "title": "2639⭐ 440🍴 Windows Events Attack Samples",
               "description": ") - Windows Events Attack Samples",
               "children": [],
               "repo_info": {
@@ -1269,7 +1269,7 @@
                 "open_issues": 5,
                 "owner": "sbousseaden",
                 "repo": "EVTX-ATTACK-SAMPLES",
-                "stars": 2639,
+                "stars": 2640,
                 "topics": [
                   "dataset",
                   "detection-engineering",
@@ -1384,7 +1384,7 @@
             },
             {
               "node_type": "item",
-              "title": "86⭐ 6🍴 NullSec Linux",
+              "title": "86⭐ 5🍴 NullSec Linux",
               "description": ") - Security-focused Linux distribution with 140+ pre-installed forensic and offensive security tools, custom hardened kernel, and integrated incident response workflows.",
               "children": [],
               "repo_info": {
@@ -1471,7 +1471,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "11264⭐ 2867🍴 Sigma",
+              "title": "11290⭐ 2876🍴 Sigma",
               "description": ") - Generic signature format for SIEM systems already containing an extensive ruleset.",
               "children": [],
               "repo_info": {
@@ -1481,11 +1481,11 @@
                 "id": 77276660,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T11:01:37Z",
-                "open_issues": 272,
+                "last_commit": "2026-10-21T03:04:45Z",
+                "open_issues": 268,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 11290,
+                "stars": 11305,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -1502,7 +1502,7 @@
             },
             {
               "node_type": "item",
-              "title": "3696⭐ 312🍴 Chainsaw",
+              "title": "3695⭐ 312🍴 Chainsaw",
               "description": ") - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.",
               "children": [],
               "repo_info": {
@@ -1516,7 +1516,7 @@
                 "open_issues": 4,
                 "owner": "WithSecureOpenSource",
                 "repo": "chainsaw",
-                "stars": 3694,
+                "stars": 3695,
                 "topics": [
                   "attack",
                   "blueteam",
@@ -1537,7 +1537,7 @@
             },
             {
               "node_type": "item",
-              "title": "3404⭐ 300🍴 Hayabusa",
+              "title": "3409⭐ 300🍴 Hayabusa",
               "description": ") - Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.",
               "children": [],
               "repo_info": {
@@ -1547,11 +1547,11 @@
                 "id": 296518768,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T02:00:13Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-21T00:54:48Z",
+                "open_issues": 19,
                 "owner": "Yamato-Security",
                 "repo": "hayabusa",
-                "stars": 3406,
+                "stars": 3409,
                 "topics": [
                   "attack",
                   "cybersecurity",
@@ -1579,7 +1579,7 @@
             },
             {
               "node_type": "item",
-              "title": "3289⭐ 493🍴 LogonTracer",
+              "title": "3291⭐ 492🍴 LogonTracer",
               "description": ") - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.",
               "children": [],
               "repo_info": {
@@ -1609,7 +1609,7 @@
             },
             {
               "node_type": "item",
-              "title": "2891⭐ 325🍴 StreamAlert",
+              "title": "2892⭐ 325🍴 StreamAlert",
               "description": ") - Serverless, real-time log data analysis framework, capable of ingesting custom data sources and triggering alerts using user-defined logic.",
               "children": [],
               "repo_info": {
@@ -1639,7 +1639,7 @@
             },
             {
               "node_type": "item",
-              "title": "1430⭐ 246🍴 APT Hunter",
+              "title": "1431⭐ 246🍴 APT Hunter",
               "description": ") - APT-Hunter is Threat Hunting tool for windows event logs.",
               "children": [],
               "repo_info": {
@@ -1653,7 +1653,7 @@
                 "open_issues": 10,
                 "owner": "ahmedkhlief",
                 "repo": "APT-Hunter",
-                "stars": 1430,
+                "stars": 1432,
                 "topics": [
                   "apt-attacks",
                   "forensic-analysis",
@@ -1669,7 +1669,7 @@
             },
             {
               "node_type": "item",
-              "title": "863⭐ 120🍴 Zircolite",
+              "title": "864⭐ 120🍴 Zircolite",
               "description": ") - A standalone and fast SIGMA-based detection tool for EVTX or JSON.",
               "children": [],
               "repo_info": {
@@ -1679,11 +1679,11 @@
                 "id": 343939740,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T13:45:53Z",
+                "last_commit": "2026-10-20T10:44:20Z",
                 "open_issues": 0,
                 "owner": "wagga40",
                 "repo": "Zircolite",
-                "stars": 863,
+                "stars": 866,
                 "topics": [
                   "auditd",
                   "detection",
@@ -1831,7 +1831,7 @@
                 "open_issues": 44,
                 "owner": "Yamato-Security",
                 "repo": "WELA",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
@@ -1878,7 +1878,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "8054⭐ 1346🍴 Volatility",
+              "title": "8052⭐ 1346🍴 Volatility",
               "description": ") - Advanced memory forensics framework.",
               "children": [],
               "repo_info": {
@@ -1892,7 +1892,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8052,
+                "stars": 8053,
                 "topics": [
                   "malware",
                   "memory",
@@ -1905,7 +1905,7 @@
             },
             {
               "node_type": "item",
-              "title": "4508⭐ 725🍴 Volatility 3",
+              "title": "4517⭐ 726🍴 Volatility 3",
               "description": ") - The volatile memory extraction framework (successor of Volatility)",
               "children": [],
               "repo_info": {
@@ -1919,7 +1919,7 @@
                 "open_issues": 147,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4517,
+                "stars": 4519,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -1947,17 +1947,17 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-05T18:12:04Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4383,
+                "stars": 4384,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
             },
             {
               "node_type": "item",
-              "title": "2050⭐ 376🍴 LiME",
+              "title": "2051⭐ 376🍴 LiME",
               "description": ") - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.",
               "children": [],
               "repo_info": {
@@ -1988,11 +1988,11 @@
                 "id": 190660866,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-19T21:59:19Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-20T22:22:42Z",
+                "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "avml",
-                "stars": 1124,
+                "stars": 1125,
                 "topics": [
                   "linux-security",
                   "memory-forensics",
@@ -2076,8 +2076,8 @@
                 "id": 264956942,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T22:22:36Z",
-                "open_issues": 70,
+                "last_commit": "2026-10-20T09:48:46Z",
+                "open_issues": 73,
                 "owner": "LDO-CERT",
                 "repo": "orochi",
                 "stars": 278,
@@ -2235,7 +2235,7 @@
             },
             {
               "node_type": "item",
-              "title": "1093⭐ 127🍴 macOS Artifact Parsing Tool (mac_apt)",
+              "title": "1094⭐ 128🍴 macOS Artifact Parsing Tool (mac_apt)",
               "description": ") - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.",
               "children": [],
               "repo_info": {
@@ -2249,7 +2249,7 @@
                 "open_issues": 9,
                 "owner": "ydkhatri",
                 "repo": "mac_apt",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": [
                   "dfir",
                   "forensics",
@@ -2267,7 +2267,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "5217⭐ 779🍴 Awesome Forensics",
+              "title": "5222⭐ 781🍴 Awesome Forensics",
               "description": ") - A curated list of awesome forensic analysis tools and resources.",
               "children": [],
               "repo_info": {
@@ -2281,7 +2281,7 @@
                 "open_issues": 10,
                 "owner": "cugu",
                 "repo": "awesome-forensics",
-                "stars": 5222,
+                "stars": 5223,
                 "topics": [
                   "computer-forensics",
                   "dfir",
@@ -2295,7 +2295,7 @@
             },
             {
               "node_type": "item",
-              "title": "2550⭐ 596🍴 Didier Stevens Suite",
+              "title": "2552⭐ 596🍴 Didier Stevens Suite",
               "description": ") - Tool collection",
               "children": [],
               "repo_info": {
@@ -2309,14 +2309,14 @@
                 "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2551,
+                "stars": 2554,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
             },
             {
               "node_type": "item",
-              "title": "999⭐ 165🍴 List of various Security APIs",
+              "title": "999⭐ 166🍴 List of various Security APIs",
               "description": ") - Collective list of public JSON APIs for use in security.",
               "children": [],
               "repo_info": {
@@ -2343,7 +2343,7 @@
             },
             {
               "node_type": "item",
-              "title": "665⭐ 89🍴 Awesome Event IDs",
+              "title": "666⭐ 89🍴 Awesome Event IDs",
               "description": ") - Collection of Event ID resources useful for Digital Forensics and Incident Response.",
               "children": [],
               "repo_info": {
@@ -2391,7 +2391,7 @@
                 "open_issues": 83,
                 "owner": "SwiftOnSecurity",
                 "repo": "sysmon-config",
-                "stars": 5697,
+                "stars": 5698,
                 "topics": [
                   "logging",
                   "monitoring",
@@ -2407,7 +2407,7 @@
             },
             {
               "node_type": "item",
-              "title": "3930⭐ 691🍴 HELK",
+              "title": "3931⭐ 691🍴 HELK",
               "description": ") - Threat Hunting platform.",
               "children": [],
               "repo_info": {
@@ -2421,7 +2421,7 @@
                 "open_issues": 60,
                 "owner": "Cyb3rWard0g",
                 "repo": "HELK",
-                "stars": 3931,
+                "stars": 3932,
                 "topics": [
                   "docker",
                   "dockerhub",
@@ -2442,7 +2442,7 @@
             },
             {
               "node_type": "item",
-              "title": "3158⭐ 661🍴 sysmon-modular",
+              "title": "3161⭐ 661🍴 sysmon-modular",
               "description": ") - A repository of sysmon configuration modules",
               "children": [],
               "repo_info": {
@@ -2456,7 +2456,7 @@
                 "open_issues": 50,
                 "owner": "olafhartong",
                 "repo": "sysmon-modular",
-                "stars": 3161,
+                "stars": 3163,
                 "topics": [
                   "dfir",
                   "mitre-attack",
@@ -2505,14 +2505,14 @@
                 "open_issues": 46,
                 "owner": "davehull",
                 "repo": "Kansa",
-                "stars": 1664,
+                "stars": 1665,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
             },
             {
               "node_type": "item",
-              "title": "1540⭐ 189🍴 Hindsight",
+              "title": "1542⭐ 189🍴 Hindsight",
               "description": ") - Internet history forensics for Google Chrome/Chromium.",
               "children": [],
               "repo_info": {
@@ -2542,7 +2542,7 @@
             },
             {
               "node_type": "item",
-              "title": "985⭐ 126🍴 Raccine",
+              "title": "985⭐ 125🍴 Raccine",
               "description": ") - A Simple Ransomware Protection",
               "children": [],
               "repo_info": {
@@ -2609,7 +2609,7 @@
             },
             {
               "node_type": "item",
-              "title": "332⭐ 33🍴 MFT Browser",
+              "title": "333⭐ 33🍴 MFT Browser",
               "description": ") - MFT directory tree reconstruction & record info.",
               "children": [],
               "repo_info": {
@@ -2856,7 +2856,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "4690⭐ 867🍴 ThreatHunter-Playbook",
+              "title": "4691⭐ 868🍴 ThreatHunter-Playbook",
               "description": ") - Playbook to aid the development of techniques and hypothesis for hunting campaigns.",
               "children": [],
               "repo_info": {
@@ -2870,7 +2870,7 @@
                 "open_issues": 6,
                 "owner": "OTRF",
                 "repo": "ThreatHunter-Playbook",
-                "stars": 4691,
+                "stars": 4693,
                 "topics": [
                   "dfir",
                   "hunter",
@@ -2970,7 +2970,7 @@
                 "open_issues": 5,
                 "owner": "counteractive",
                 "repo": "incident-response-plan-template",
-                "stars": 811,
+                "stars": 809,
                 "topics": [
                   "cybersecurity",
                   "incident",
@@ -3040,7 +3040,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "90471⭐ 10131🍴 Ghidra",
+              "title": "91832⭐ 10291🍴 Ghidra",
               "description": ") - Software Reverse Engineering Framework.",
               "children": [],
               "repo_info": {
@@ -3050,11 +3050,11 @@
                 "id": 173228436,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T16:16:41Z",
-                "open_issues": 2132,
+                "last_commit": "2026-10-20T12:16:20Z",
+                "open_issues": 2135,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 91754,
+                "stars": 92313,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -3065,7 +3065,7 @@
             },
             {
               "node_type": "item",
-              "title": "25074⭐ 3367🍴 Radare2",
+              "title": "25105⭐ 3370🍴 Radare2",
               "description": ") - Reverse engineering framework and command-line toolset.",
               "children": [],
               "repo_info": {
@@ -3075,11 +3075,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T06:20:01Z",
-                "open_issues": 794,
+                "last_commit": "2026-10-21T07:05:08Z",
+                "open_issues": 798,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25104,
+                "stars": 25113,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -3097,7 +3097,7 @@
             },
             {
               "node_type": "item",
-              "title": "20047⭐ 1520🍴 Cutter",
+              "title": "20062⭐ 1522🍴 Cutter",
               "description": ") - Free and Open Source Reverse Engineering Platform powered by rizin.",
               "children": [],
               "repo_info": {
@@ -3108,10 +3108,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T12:44:05Z",
-                "open_issues": 499,
+                "open_issues": 500,
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 20062,
+                "stars": 20067,
                 "topics": [
                   "cutter",
                   "debugger",
@@ -3124,7 +3124,7 @@
             },
             {
               "node_type": "item",
-              "title": "6251⭐ 736🍴 CAPA",
+              "title": "6260⭐ 737🍴 CAPA",
               "description": ") - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.",
               "children": [],
               "repo_info": {
@@ -3138,7 +3138,7 @@
                 "open_issues": 310,
                 "owner": "mandiant",
                 "repo": "capa",
-                "stars": 6259,
+                "stars": 6262,
                 "topics": [
                   "binary-analysis",
                   "gsoc-2026",
@@ -3151,7 +3151,7 @@
             },
             {
               "node_type": "item",
-              "title": "5958⭐ 1718🍴 Cuckoo",
+              "title": "5959⭐ 1719🍴 Cuckoo",
               "description": ") - Open Source Highly configurable sandboxing tool.",
               "children": [],
               "repo_info": {
@@ -3165,14 +3165,14 @@
                 "open_issues": 959,
                 "owner": "cuckoosandbox",
                 "repo": "cuckoo",
-                "stars": 5959,
+                "stars": 5960,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
             },
             {
               "node_type": "item",
-              "title": "3995⭐ 647🍴 Rizin",
+              "title": "4016⭐ 653🍴 Rizin",
               "description": ") - UNIX-like reverse engineering framework and command-line toolset",
               "children": [],
               "repo_info": {
@@ -3182,11 +3182,11 @@
                 "id": 299867499,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-20T05:55:54Z",
-                "open_issues": 619,
+                "last_commit": "2026-10-21T05:43:35Z",
+                "open_issues": 617,
                 "owner": "rizinorg",
                 "repo": "rizin",
-                "stars": 4016,
+                "stars": 4021,
                 "topics": [
                   "debugging",
                   "exploitation",
@@ -3199,7 +3199,7 @@
             },
             {
               "node_type": "item",
-              "title": "3573⭐ 614🍴 CAPEv2",
+              "title": "3592⭐ 614🍴 CAPEv2",
               "description": ") - Malware Configuration And Payload Extraction.",
               "children": [],
               "repo_info": {
@@ -3209,11 +3209,11 @@
                 "id": 215366713,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T07:10:46Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-20T19:49:09Z",
+                "open_issues": 98,
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
-                "stars": 3586,
+                "stars": 3601,
                 "topics": [
                   "cape",
                   "configs",
@@ -3376,7 +3376,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3801⭐ 612🍴 LOKI",
+              "title": "3802⭐ 612🍴 LOKI",
               "description": ") - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).",
               "children": [],
               "repo_info": {
@@ -3390,7 +3390,7 @@
                 "open_issues": 18,
                 "owner": "Neo23x0",
                 "repo": "Loki",
-                "stars": 3801,
+                "stars": 3802,
                 "topics": [
                   "antivirus",
                   "dfir",
@@ -3408,7 +3408,7 @@
             },
             {
               "node_type": "item",
-              "title": "777⭐ 114🍴 Fenrir",
+              "title": "778⭐ 114🍴 Fenrir",
               "description": ") - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.",
               "children": [],
               "repo_info": {
@@ -3481,11 +3481,11 @@
                 "id": 21009909,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T15:24:40Z",
-                "open_issues": 228,
+                "last_commit": "2026-10-20T18:01:06Z",
+                "open_issues": 230,
                 "owner": "google",
                 "repo": "timesketch",
-                "stars": 3435,
+                "stars": 3437,
                 "topics": [
                   "analysis",
                   "dfir",
@@ -3498,7 +3498,7 @@
             },
             {
               "node_type": "item",
-              "title": "2174⭐ 430🍴 Plaso",
+              "title": "2176⭐ 431🍴 Plaso",
               "description": ") - a Python-based backend engine for the tool log2timeline.",
               "children": [],
               "repo_info": {
@@ -3509,7 +3509,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T03:21:07Z",
-                "open_issues": 302,
+                "open_issues": 305,
                 "owner": "log2timeline",
                 "repo": "plaso",
                 "stars": 2176,
@@ -3537,7 +3537,7 @@
                 "open_issues": 41,
                 "owner": "cyb3rfox",
                 "repo": "Aurora-Incident-Response",
-                "stars": 1083,
+                "stars": 1085,
                 "topics": [
                   "incident-management",
                   "incident-response",
@@ -3578,7 +3578,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3801⭐ 612🍴 LOKI",
+              "title": "3802⭐ 612🍴 LOKI",
               "description": ") - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).",
               "children": [],
               "repo_info": {
@@ -3592,7 +3592,7 @@
                 "open_issues": 18,
                 "owner": "Neo23x0",
                 "repo": "Loki",
-                "stars": 3801,
+                "stars": 3802,
                 "topics": [
                   "antivirus",
                   "dfir",
@@ -3610,7 +3610,7 @@
             },
             {
               "node_type": "item",
-              "title": "2557⭐ 223🍴 Fibratus",
+              "title": "2556⭐ 223🍴 Fibratus",
               "description": ") - Tool for exploration and tracing of the Windows kernel.",
               "children": [],
               "repo_info": {
@@ -3651,7 +3651,7 @@
             },
             {
               "node_type": "item",
-              "title": "1443⭐ 282🍴 PowerForensics",
+              "title": "1444⭐ 282🍴 PowerForensics",
               "description": ") - Live disk forensics platform, using PowerShell.",
               "children": [],
               "repo_info": {
@@ -3672,7 +3672,7 @@
             },
             {
               "node_type": "item",
-              "title": "723⭐ 156🍴 RegRipper",
+              "title": "724⭐ 156🍴 RegRipper",
               "description": ") - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.",
               "children": [],
               "repo_info": {
@@ -3686,7 +3686,7 @@
                 "open_issues": 10,
                 "owner": "keydet89",
                 "repo": "RegRipper3.0",
-                "stars": 724,
+                "stars": 725,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:50:23.757Z"
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:13:19.522Z",
+    "last_updated": "2026-10-21T07:07:48.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools for incident response. With repository stars⭐ and forks🍴",
@@ -3931,7 +3931,7 @@
       "id": 521210646,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-18T09:14:57Z",
+      "last_commit": "2026-10-20T10:11:07Z",
       "open_issues": 4,
       "owner": "Correia-jpv",
       "repo": "fucking-awesome-incident-response",
@@ -3953,7 +3953,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "61d7a97589780d5143f3381431ed3783079cf5ad",
+    "original_repository_sha": "ab01f84bfee181f4307cd03b7dd69e85d741eb96",
     "enhanced_repository": "enhansome/fucking-enhansome-incident-response",
     "enhanced_repository_description": null,
     "title": "Awesome Incident Response with stars"
